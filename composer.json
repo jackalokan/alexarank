@@ -1,0 +1,12 @@
+{
+    "name": "resul/alexa-rank",
+    "description": "simpleSimple php class to get Alexa.com Rank",
+    "type": "library",
+    "authors": [
+        {
+            "name": "resuldeger",
+            "email": "resuldeger3@gmail.com"
+        }
+    ],
+    "require": {}
+}
