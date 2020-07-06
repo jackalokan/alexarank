@@ -1,10 +1,20 @@
 {
     "name": "resuldeger/alexarank",
-    "description": "simpleSimple php class to get Alexa.com Rank",
+    "description": "leSimple php class to get Alexa.com Rank",
     "type": "library",
+    "license": "MIT",
+    "version": "0.1",
     "authors": [{
         "name": "resuldeger",
         "email": "resuldeger3@gmail.com"
     }],
+    "autoload": {
+        "psr-4": { "AlexaRank\\": "src/" }
+    },
+    "support": {
+        "email": "resuldeger3@gmail.com",
+        "issues": "https://github.com/resuldeger/alexarank/issues"
+    },
+    "minimum-stability": "beta",
     "require": {}
 }
