@@ -1,6 +1,6 @@
 <?php
 
-namespace AlexaRank;
+namespace resuldeger;
 
 class AlexaRank
 {
